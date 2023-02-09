@@ -1,13 +1,14 @@
 import {useState} from "react";
 import './styles/app.css'
-import SliderPagination from "./components/SldierPagination/SliderPagination";
+import Slider from "./components/Slider/Slider";
+import product from "./data/product";
 
 function App() {
 
 
     return (
         <div className="App">
-           <SliderPagination/>
+            <Slider product={product}/>
         </div>
     );
 }
