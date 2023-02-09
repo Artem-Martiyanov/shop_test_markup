@@ -1,0 +1,1 @@
+import React from 'react';import cl from './SliderPaginationItem.module.css'const SliderPaginationItem = ({img}) => {    return (        <li className={cl.pagination__item}>            <img className={cl.pagination__img} src={'products/' + img} alt='Product miniature.'/>        </li>    );};export default SliderPaginationItem;

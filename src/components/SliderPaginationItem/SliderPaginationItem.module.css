@@ -1,0 +1,1 @@
+.pagination__item {    list-style: none;    width: 67px;    height: 67px;    background: #F2F2F2;    cursor: pointer;}.pagination__img {    display: block;    height: 100%;    width: auto;    margin: auto;    object-fit: cover;    object-position: center;}
