@@ -1,0 +1,1 @@
+import React from 'react';import cl from './Button.module.css'const Button = () => {    return (        <button className={cl.button}>            edrget        </button>    );};export default Button;
