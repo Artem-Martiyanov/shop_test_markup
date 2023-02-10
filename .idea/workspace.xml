@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d6da2b7-15f6-4dff-8803-2883266333fa" name="Changes" comment="" />
+    <list default="true" id="7d6da2b7-15f6-4dff-8803-2883266333fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SldierPagination/SliderPagination.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SldierPagination/SliderPagination.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SliderPaginationItem/SliderPaginationItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SliderPaginationItem/SliderPaginationItem.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +36,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LVHdlIC9sid79QkoqpwMWrtaHw" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -41,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Work/Verstak/2022/Beauty",
+    "last_opened_file_path": "D:/Work/Verstak/2023/shop_test_markup",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -49,6 +56,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,7 +92,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675949418986</updated>
-      <workItem from="1675949420112" duration="19699000" />
+      <workItem from="1675949420112" duration="20473000" />
+      <workItem from="1676034777148" duration="126000" />
+      <workItem from="1676045272742" duration="5517000" />
     </task>
     <servers />
   </component>
@@ -113,5 +123,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
 </project>
