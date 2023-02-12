@@ -12,7 +12,7 @@ function App() {
         <div className="App">
             <Slider product={product}/>
             <Button>В корзину</Button>
-            <Select options={product.sizes}/>
+            <Select options={product.sizes} name={'size'}/>
         </div>
     );
 }
