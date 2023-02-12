@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6da2b7-15f6-4dff-8803-2883266333fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/likeButton/LikeButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/likeButton/LikeButton.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/sizeList/size-disable.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/product.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/select-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +61,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\UI\sizeList" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\images" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\SliderPaginationItem" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\SldierPagination" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\Slider" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\public" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -99,7 +95,7 @@
       <workItem from="1676034777148" duration="126000" />
       <workItem from="1676045272742" duration="13377000" />
       <workItem from="1676129456634" duration="1735000" />
-      <workItem from="1676190100043" duration="11980000" />
+      <workItem from="1676190100043" duration="13293000" />
     </task>
     <servers />
   </component>
