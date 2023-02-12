@@ -1,0 +1,1 @@
+.list {    font-family: inherit;    display: flex;    padding: 0;    list-style: none;    font-size: 14px;    line-height: 18px;    text-transform: uppercase;}.item {    display: flex;    justify-content: center;    align-items: center;    margin: 0;    border-radius: 50%;    background-color: #eee;    height: 41px;    width: 41px;}

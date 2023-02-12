@@ -1,0 +1,1 @@
+import React from 'react';import cl from './SizeList.module.css'const SizeList = ({sizes}) => {    return (        <ul className={cl.list}>            <li className={cl.item}>{Object.keys(sizes)[0]}</li>        </ul>    );};export default SizeList;
