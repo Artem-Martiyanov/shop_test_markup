@@ -5,10 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6da2b7-15f6-4dff-8803-2883266333fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/sizeList/size-disable.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPagination.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPaginationItem/SliderPaginationItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/features/Features.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/features/Features.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/breadcrumbs/nav-link 1.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SldierPagination/SliderPagination.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SldierPagination/SliderPagination.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPagination.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SliderPaginationItem/SliderPaginationItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SliderPaginationItem/SliderPaginationItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPaginationItem/SliderPaginationItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/select/Select.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/select/Select.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/product.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/breadcrumbs/breadcrumbs_arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/breadcrumbs/breadcrumbs_arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/breadcrumbs/breadcrumbs_home.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/breadcrumbs/breadcrumbs_home.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/features/feature_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/features/feature_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/features/feature_3.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,31 +62,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Work/Verstak/2023/shop_test_markup",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Work/Verstak/2023/shop_test_markup&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\UI\sizeList" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\images" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\SliderPaginationItem" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\SldierPagination" />
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\images\breadcrumbs" />
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\UI" />
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\Slider\SldierPagination" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\Slider" />
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\UI\sizeList" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -95,7 +116,8 @@
       <workItem from="1676034777148" duration="126000" />
       <workItem from="1676045272742" duration="13377000" />
       <workItem from="1676129456634" duration="1735000" />
-      <workItem from="1676190100043" duration="13293000" />
+      <workItem from="1676190100043" duration="16423000" />
+      <workItem from="1676296077056" duration="11328000" />
     </task>
     <servers />
   </component>
