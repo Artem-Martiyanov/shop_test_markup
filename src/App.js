@@ -14,7 +14,7 @@ function App() {
 
     return (
         <div className="App">
-            <Slider product={product}/>
+            <Slider images={product.images}/>
             <Button>В корзину</Button>
             <Select options={product.sizes} name={'size'}/>
             <LikeButton />
