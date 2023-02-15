@@ -5,15 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6da2b7-15f6-4dff-8803-2883266333fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/SliderPagination.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/SliderPaginationItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPagination.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPagination.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPaginationItem/SliderPaginationItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPaginationItem/SliderPaginationItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPaginationItem/SliderPaginationItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPaginationItem/SliderPaginationItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPagination.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPagination.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPaginationItem/SliderPaginationItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/SldierPagination/SliderPaginationItem/SliderPaginationItem.module.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/button/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/button/Button.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/features/Features.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/features/Features.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/likeButton/LikeButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/likeButton/LikeButton.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/select/Select.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/select/Select.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/sizeList/SizeList.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/product.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/app.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +78,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\Slider" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\images\breadcrumbs" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\UI" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\Slider\SldierPagination" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\Slider" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components\UI\sizeList" />
     </key>
   </component>
@@ -103,7 +115,7 @@
       <workItem from="1676190100043" duration="16423000" />
       <workItem from="1676296077056" duration="11792000" />
       <workItem from="1676386343257" duration="8000" />
-      <workItem from="1676468414804" duration="1610000" />
+      <workItem from="1676468414804" duration="9469000" />
     </task>
     <servers />
   </component>

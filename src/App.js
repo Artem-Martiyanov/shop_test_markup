@@ -14,14 +14,22 @@ function App() {
 
     return (
         <div className="App">
-            <Slider images={product.images}/>
-            <Button>В корзину</Button>
-            <Select options={product.sizes} name={'size'}/>
-            <LikeButton />
-            <SizeList sizes={product.sizes}/>
-            <Features/>
-            <ExitBtn/>
             <BreadCrumbs/>
+            <Features/>
+            <Slider images={product.images}/>
+            <header className='product__header'>
+                <h1 className='product__title'>{product.name}</h1>
+                <span className='product__price'>{product.price} руб.</span>
+            </header>
+            <ExitBtn/>
+            <section className='product__interactive'>
+                <Select options={product.sizes} name={'size'}/>
+                <Button>В корзину</Button>
+                <SizeList sizes={product.sizes}/>
+                <a href='#' className='product__link'>Как выбрать размер?</a>
+            </section>
+            <LikeButton/>
+            <p className='product__description'>{product.description}</p>
         </div>
     );
 }
