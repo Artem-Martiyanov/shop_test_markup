@@ -22,14 +22,19 @@ function App() {
                     <ExitBtn/>
                 </div>
                 <span className='product__price'>{splitDigits(product.price)} руб.</span>
-
             </header>
             <section className='product__interactive'>
-                <Select options={product.sizes} name={'size'}/>
-                <Button>В корзину</Button>
-                <LikeButton/>
-                <SizeList sizes={product.sizes}/>
-                <a href='#' className='product__link'>Как выбрать размер?</a>
+                <div className='product__buttons'>
+                    <Select options={product.sizes} name={'size'}/>
+                    <div className='bin__buttons'>
+                        <Button>В корзину</Button>
+                        <LikeButton/>
+                    </div>
+                </div>
+                <div className='product__size-list'>
+                    <SizeList sizes={product.sizes}/>
+                    <a href='#' className='product__link'>Как выбрать размер?</a>
+                </div>
             </section>
             <Slider images={product.images}/>
             <div className='product__description'>{product.description}</div>

@@ -1,1 +1,0 @@
-const SliderPaginationItem = ({img, onMouseEnter, i, classes}) => {    return (        <li className={classes} onMouseEnter={() => onMouseEnter(i)}>            <img                src={img}                alt='Фото продукта с другого ракурса.'            />        </li>)};export default SliderPaginationItem;
