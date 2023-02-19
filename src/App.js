@@ -1,5 +1,5 @@
 import './styles/app.css'
-import Slider from "./components/Slider/Slider";
+import Slider1 from "./components/Slider/Slider1";
 import product from "./product";
 import Button from "./components/UI/button/Button";
 import Select from "./components/UI/select/Select";
@@ -36,7 +36,7 @@ function App() {
                     <a href='#' className='product__link'>Как выбрать размер?</a>
                 </div>
             </section>
-            <Slider images={product.images}/>
+            <Slider1 images={product.images}/>
             <div className='product__description'>{product.description}</div>
             <Features features={product.features}/>
         </div>
