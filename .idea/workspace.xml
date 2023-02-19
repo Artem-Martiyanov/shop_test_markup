@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6da2b7-15f6-4dff-8803-2883266333fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Slider/Slider1.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/SliderThumbnails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/SliderThumbnails.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/SliderThumbnailsItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/SliderThumbnailsItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/button/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/button/Button.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/features/Features.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/features/Features.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/likeButton/LikeButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/likeButton/LikeButton.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/select/Select.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/select/Select.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider1.jsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +104,7 @@
       <workItem from="1676484083616" duration="1194000" />
       <workItem from="1676558422173" duration="17192000" />
       <workItem from="1676643087531" duration="17198000" />
-      <workItem from="1676812134354" duration="10610000" />
+      <workItem from="1676812134354" duration="10676000" />
     </task>
     <servers />
   </component>
