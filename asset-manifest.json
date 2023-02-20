@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shop_test_markup/static/css/main.d8bfa049.css",
-    "main.js": "/shop_test_markup/static/js/main.5b486c65.js",
+    "main.js": "/shop_test_markup/static/js/main.5ca57abc.js",
     "static/media/FuturaPT-regular.ttf": "/shop_test_markup/static/media/FuturaPT-regular.cc1c1e0352798ccd4c01.ttf",
     "static/media/FuturaPT-medium.ttf": "/shop_test_markup/static/media/FuturaPT-medium.30e4feffe6c0de63ca28.ttf",
     "static/media/Inter-Bold.ttf": "/shop_test_markup/static/media/Inter-Bold.3e3cb905bf27a4c8c370.ttf",
@@ -20,10 +20,10 @@
     "index.html": "/shop_test_markup/index.html",
     "static/media/size-disable.svg": "/shop_test_markup/static/media/size-disable.408ab61158e1fd175b24.svg",
     "main.d8bfa049.css.map": "/shop_test_markup/static/css/main.d8bfa049.css.map",
-    "main.5b486c65.js.map": "/shop_test_markup/static/js/main.5b486c65.js.map"
+    "main.5ca57abc.js.map": "/shop_test_markup/static/js/main.5ca57abc.js.map"
   },
   "entrypoints": [
     "static/css/main.d8bfa049.css",
-    "static/js/main.5b486c65.js"
+    "static/js/main.5ca57abc.js"
   ]
 }
