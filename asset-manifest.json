@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shop_test_markup/static/css/main.d8bfa049.css",
+    "main.js": "/shop_test_markup/static/js/main.664e2dea.js",
+    "static/media/FuturaPT-regular.ttf": "/shop_test_markup/static/media/FuturaPT-regular.cc1c1e0352798ccd4c01.ttf",
+    "static/media/FuturaPT-medium.ttf": "/shop_test_markup/static/media/FuturaPT-medium.30e4feffe6c0de63ca28.ttf",
+    "static/media/Inter-Bold.ttf": "/shop_test_markup/static/media/Inter-Bold.3e3cb905bf27a4c8c370.ttf",
+    "static/media/Inter-Bold.woff": "/shop_test_markup/static/media/Inter-Bold.70b75ca0d085966299d2.woff",
+    "static/media/FuturaPT-regular.woff": "/shop_test_markup/static/media/FuturaPT-regular.59107f8834b2bae2c35f.woff",
+    "static/media/FuturaPT-medium.woff": "/shop_test_markup/static/media/FuturaPT-medium.8fd0786a70ef8d996c2a.woff",
+    "static/media/Inter-Bold.woff2": "/shop_test_markup/static/media/Inter-Bold.a62e165fc4624783071b.woff2",
+    "static/media/FuturaPT-regular.woff2": "/shop_test_markup/static/media/FuturaPT-regular.9eab2697a529e56a54ff.woff2",
+    "static/media/FuturaPT-medium.woff2": "/shop_test_markup/static/media/FuturaPT-medium.3b13f6a8eccc1ca976b4.woff2",
+    "index.html": "/shop_test_markup/index.html",
+    "static/media/size-disable.svg": "/shop_test_markup/static/media/size-disable.408ab61158e1fd175b24.svg",
+    "main.d8bfa049.css.map": "/shop_test_markup/static/css/main.d8bfa049.css.map",
+    "main.664e2dea.js.map": "/shop_test_markup/static/js/main.664e2dea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8bfa049.css",
+    "static/js/main.664e2dea.js"
+  ]
+}
