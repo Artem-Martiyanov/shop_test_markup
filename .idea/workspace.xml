@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6da2b7-15f6-4dff-8803-2883266333fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HowChoose.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NotFoundPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProductPage/ProductPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProductPage/ProductPage.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider1.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/features/Features.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/features/Features.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/select/Select.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/select/Select.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/select/Select.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/select/Select.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/app.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +75,11 @@
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\public\images\products" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\public\images\features" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\public\images" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\public" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\public\data" />
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src" />
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\styles" />
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\pages\ProductPage" />
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\pages" />
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -104,7 +116,8 @@
       <workItem from="1676484083616" duration="1194000" />
       <workItem from="1676558422173" duration="17192000" />
       <workItem from="1676643087531" duration="17198000" />
-      <workItem from="1676812134354" duration="10676000" />
+      <workItem from="1676812134354" duration="19170000" />
+      <workItem from="1676906003326" duration="4496000" />
     </task>
     <servers />
   </component>
