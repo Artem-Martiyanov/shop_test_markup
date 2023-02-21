@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6da2b7-15f6-4dff-8803-2883266333fa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/products/test1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/breadCrumbs/BreadCrumbs.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/exitBtn/ExitBtn.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/features/Features.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/features/Features.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/products/product_1_min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/products/product_1_min.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/products/test1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/products/test2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/products/test2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HowChoose.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HowChoose.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductPage/ProductPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductPage/ProductPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductPage/ProductPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductPage/ProductPage.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/product.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +75,11 @@
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\images\products" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\styles" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\pages\ProductPage" />
       <recent name="D:\Work\Verstak\2023\shop_test_markup\src\pages" />
-      <recent name="D:\Work\Verstak\2023\shop_test_markup\src\components" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -105,6 +118,7 @@
       <workItem from="1676643087531" duration="17198000" />
       <workItem from="1676812134354" duration="19170000" />
       <workItem from="1676906003326" duration="4845000" />
+      <workItem from="1676982115201" duration="3948000" />
     </task>
     <servers />
   </component>
@@ -119,7 +133,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
               <option name="FILTERS">

@@ -1,1 +1,1 @@
-.button {    border: none;    cursor: pointer;    background: none;    padding: 10px;    padding-right: 0;    opacity: 0.3;    transition: opacity 0.2s ease;    grid-area: exit;    align-self: start;    justify-self: end;}.button:hover {    opacity: 1;    transition: opacity 0.2s ease;}
+.button {    border: none;    cursor: pointer;    background: none;    opacity: 0.3;    transition: opacity 0.2s ease;}.button:hover {    opacity: 1;    transition: opacity 0.2s ease;}@media (max-width: 320px) {    .button {        padding: 0 10px;    }}
